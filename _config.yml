@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+title: RBI Instrumentation
+email: rbi.sarl@wanadoo.fr
+address: 53 chemin du Vieux Chêne, 38240 Meylan, France
+phone: +33/0 4 76 41 91 66
+description: >-
+  measuring multiphase flows since 1987
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-slate
+# theme: jekyll-theme-minimal
+# theme: minima
