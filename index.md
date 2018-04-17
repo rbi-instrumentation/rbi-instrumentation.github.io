@@ -1,80 +1,50 @@
 ---
 layout: default
+title: team
 ---
 
-# Multi-Phase Flow Measurement
+Services
+--------
 
-RBI designs and produces instrumentation and signal processing systems for two-phase flow investigation, in order to measure:
+We are an instrumentation company based in the Grenoble area, France. We develop instrumentation and automation solutions for research and industrial needs.
 
-- average void fraction
-- bubbles / droplet velocity
-- bubbles / droplet sizes
-
-The performance of such equipment opens up a large field of applications in the oil, chemistry, cryogenic and NPP industries.
-
-Designed for local measurements, the typical equipment consists of:
-
-- a mono-fibre optical probe fitted with an opto-coupler;
-- electronics for signal detection and amplification;
-<!-- - a specific digital interface circuit for data processing in a desktop computer; -->
-- an analysis software. 
-
-## Optical Probes
-
-![single probe]({{ "/assets/images/single_probe.gif" }})
-![dual probe]({{ "/assets/images/dual_probe.gif" }})
-
-Measurement principle:
-
-1. an infrared light is injected into an optical fiber, the other end of which is located in the flow to be observed;
-2. this end is a sapphire block sharpened into a special shape through which a fraction of the light escapes, the rest being reflected back;
-3. a semi-transparent mirror combined with a prism deflects this light towards a photo-sensitive diode;
-4. a change in refraction index of the medium around the fiber’s tip (gas or liquid) modifies the intensity of the light reflected back to the diode.
-<!-- 5. Direct amplification and detection through a threshold network results in a logical signal corresponding to the phase (liquid or vapor) surrounding the probe. -->
-<!-- 6. A set of two fibers fixed together with a known distance between their tips forms a double probe. Installed along the flow lines, the instantaneous gradient of the phase interface can be measured. -->
-
-Main characteristics:
-
-- diameter of the sensitive tip: ~ 40 µm (for smaller tips, please call)
-- signal settling time: ~ 0.5 to 1 µs (depending on the interface curvature)
-- maximum speed of flow: 30 m/s
-
-## Signal Processing
-
-Our sapphire probes are very robust but require a specific signal processing, leading us to develop our own high-speed amplifiers.
-
-![amplifier]({{ "/assets/images/amplifier.jpg" }})
-
-RBI also provide “Void Fraction Units”, to keep an eye on the local void fraction in real-time.
-
-## Analysis Software
-
-### ISOv3
-
-Our historical software has been matured over the last 30 years and performs a deferred data analysis on dual optical probes:
-
-- probe signals is transformed to logical levels (gas/liquid) by an FPGA;
-- logical signals are acquired for an pre-determined time (or number of bubbles/droplets) to get statistically-significant data;
-- a well-proven software analysis is performed on the saved data to compute the velocity and the granulometry (bubble size distribution of the current flow.
-
-This old-school software is still our reference for industrial needs, where a large number of probes (up to 16 channels) must be measured.
-
-### Dionysos
-
-Our next-generation software is designed to perform measurements in real-time, either on single probes or on dual probes:
-
-- the probe signal is digitalized with a PicoScope™;
-- a real-time signal analysis computes the void fraction and the velocity — either by measuring the travel time between the two tips of a dual probe, or by measuring the rise time of the liquid-to-gas transitions;
-- the analog signal is also transformed to logical gas/liquid chronograms, in order to be compatible with ISOv3.
-
-Dionysos makes it possible to monitor probe signal without any time limitation. Supports up to 8 channels.
-
-# Custom Instrumentation
-
-Our engineering team has a very solid experience in most of the important instrumentation fields, especially:
+Our engineering team has a very solid experience in the instrumentation field, especially:
 
 - mechanical engineering
 - electronic design
 - software development
 
-Besides our historical activity on multi-phase flow measurement, we work a lot with the aeronautical and medical industries. Feel free to contact us for any specific instrumentation challenge you have in mind.
+Feel free to contact us for any specific instrumentation challenge you have in mind.
+
+
+Products
+--------
+
+We started developing [optical probes for dual-phase flow measurements](/probes) in 1987 with the [CEA](http://cea.fr/) to qualify multiphase flows in terms of void fraction, bubble/droplet velocity and sizes. This is still our main product today.
+
+We make [ultrasonic generators for aerosol production](/generators) for medical or industrial needs.
+
+We have also developed a [respiratory monitoring system](/visuresp) for medical research needs and got the Artinov 2006 award for it. :-)
+
+
+They Trust Us
+-------------
+
+![ABB](/assets/images/refs/abb.png)
+![Aérospatiale](/assets/images/refs/aerospatiale.png)
+![Air Liquide](/assets/images/refs/air_liquide.png)
+![Arcelor Mittal](/assets/images/refs/arcelor_mittal.png)
+![Bosch](/assets/images/refs/bosch.png)
+![CEA](/assets/images/refs/cea.png)
+![EPFL](/assets/images/refs/epfl.png)
+![ETH Zürich](/assets/images/refs/eth_zurich.png)
+![Framatome](/assets/images/refs/framatome.png)
+![gsk](/assets/images/refs/gsk.png)
+![Kaeri](/assets/images/refs/kaeri.png)
+![Mitsubishi](/assets/images/refs/mitsubishi.png)
+![NPIC](/assets/images/refs/npic.png)
+![Renault](/assets/images/refs/renault.png)
+![Rhône Poulenc](/assets/images/refs/rhone_poulenc.png)
+![Toyota](/assets/images/refs/toyota.png)
+![Veolia](/assets/images/refs/veolia.png)
+![Westinghouse](/assets/images/refs/westinghouse.png)

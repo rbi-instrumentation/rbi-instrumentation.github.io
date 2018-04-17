@@ -3,62 +3,65 @@
 
 @import "{{ site.theme }}";
 
-/* RBI logo colors */
-$color-blue: #004;
-$color-red:  #f00;
-
-/**
- * header & footer colors
- */
-#header_wrap,
-#footer_wrap,
-#footer_wrap p {
-  background: none #ddd;
-}
-#header_wrap * {
-  text-shadow: none;
-}
-#header_wrap h2 {
+#project_tagline {
   display: none;
 }
-#footer_wrap p {
-  color: #555; /* FTR, body is #373737 */
+
+p img {
+  max-width: 300px;
 }
 
-/**
- * title bar
- */
-#project_title a span {
-  display: none;
-}
-#project_title a {
-  display: block;
-  width: 248px;
-  height: 200px;
-  background-image: url(/assets/logo.png);
-}
 
 /**
- * content titles
+ * links
  */
-#main_content h1 {
-  border-bottom: 1px dotted $color-red;
-}
-h1, h2, h3, h4, h5, h6 {
-  color: $color-blue;
+
+#header_wrap a {
+  color: #ddd;
 }
 
-/**
- * content & footer links
- */
-#main_content a:hover,
-#main_content a:focus,
-footer a:hover,
-footer a:focus {
-  font-weight: normal;
-  color: $color-red;
+#header_wrap h1 a {
+  &, &:hover, &:focus {
+    font-weight: bold;
+  }
 }
-a, footer a {
-  color: $color-blue;
-  text-decoration: underline;
+
+#main_content a, header a, footer a {
+  text-decoration: none;
+  &:hover, &:focus, &.active {
+    font-weight: normal;
+    text-decoration: underline;
+  }
+}
+
+
+/**
+ * navigation bar
+ */
+
+#header_wrap {
+  position: relative;
+}
+
+.main-nav {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  ul {
+    list-style: none;
+    margin: 5px 10px;
+  }
+  li {
+    display: inline-block;
+    padding: 0 .3em;
+  }
+}
+
+
+/**
+ * home page
+ */
+
+#they-trust-us + p img {
+  margin: 10px 5px;
 }
