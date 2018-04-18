@@ -17,7 +17,7 @@
     <div id="header_wrap" class="outer">
       <header class="inner">
         <h1 id="project_title">
-          <a href="/"><span>
+          <a href="/" {% if page.url == '/' %}class="active"{% endif %}><span>
             {{ site.title | default: site.github.repository_name }}
           </span></a>
         </h1>

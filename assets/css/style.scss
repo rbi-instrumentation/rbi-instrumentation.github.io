@@ -18,11 +18,17 @@ p img {
 
 #header_wrap a {
   color: #ddd;
+  &:hover, &:focus, &.active {
+    color: #eee;
+  }
 }
 
 #header_wrap h1 a {
   &, &:hover, &:focus {
     font-weight: bold;
+  }
+  &.active {
+    text-decoration: none;
   }
 }
 
