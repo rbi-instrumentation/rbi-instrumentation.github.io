@@ -32,7 +32,7 @@ Working principle:
 2. This end is sharpened into a special shape through which a fraction of the light escapes, the rest being reflected back.
 3.A semi-transparent mirror combined with a prism deflects this light towards a photo-sensitive diode.
 4.A change in refraction index of the medium around the fiber's tip (gas or liquid) modifies the intensity of the light reflected back to the diode.
-5. Direct amplification and detection through a threshold network results in a logicial signal corresponding to the phase (liquid or vapor) surrounding the probe.
+5. Direct amplification and detection through a threshold network results in a logical signal corresponding to the phase (liquid or vapor) surrounding the probe.
 6. A set of two fibers fixed together with a known distance between their tips forms a double probe. Installed along the flow lines, the instantaneous gradient of the phase interface can be measured.
 
 ![single probe](/assets/images/1-picture2.gif)
@@ -111,12 +111,10 @@ Probes (1):
 
 - different design
 - multiple probes (3 or 4 sensors)
-- double probe (1 optical probe + 1 thermocouple) for void measurement, temperature measurement, etc…
+- double probe (1 optical probe + 1 thermocouple) for void measurement, temperature measurement, etc.
 
 Mechanics (1):
 
 - mechanical mounting and removing system (manual or automatic)
 
 (1) for more information, please contact us
-
-

@@ -103,5 +103,3 @@ OPTIONS:
 - Analog output
 - Rib cage abdomen plot
 - PC
-
-

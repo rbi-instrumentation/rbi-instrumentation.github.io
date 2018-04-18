@@ -23,9 +23,9 @@ If an intense beam of ultra sounds is focused near the free surface of a liquid,
 
 Application:
 
-1. Medical — An effective way to deliver medication via the lungs.
+1. Medical — an effective way to deliver medication via the lungs.
 
-2. Industrial — When a product can be prepared in liquid form production of aerosol is a useful way to divide a product into very small fractions of uniform size. RBI aerosol generators are used in many applications, for example:
+2. Industrial — when a product can be prepared in liquid form production of aerosol is a useful way to divide a product into very small fractions of uniform size. RBI aerosol generators are used in many applications, for example:
 
     - thin layer realisation (optics and micro electronics)
     - thin powder production (chemistry)
@@ -33,16 +33,15 @@ Application:
 
 3. Research laboratories — These aerosols may be used as tracers in turbulent diffusion simulations.
 
-Actual sizes of droplets may be measured by the RBI light scattering granulometer.
-
 
 DESCRIPTION
 -----------
 
-RBI produces several aerosol generators. They consist in :
-a special jar, hosing the transducer, in which the aerosol takes form,
-a constant level vessel supplying the jar with the liquid,
-an electronic circuit for transducer excitation.
+RBI produces several aerosol generators. They consist in:
+
+- a special jar, hosing the transducer, in which the aerosol takes form,
+- a constant level vessel supplying the jar with the liquid,
+- an electronic circuit for transducer excitation.
 
 CHARACTERISTICS:
 
@@ -50,22 +49,20 @@ CHARACTERISTICS:
 
 ![principle](/assets/images/5-picture1.gif)
 
-- transducer � 40 mm
-- Resonant frequency ~ 0,8 MHz
-- flow : 0 to 250 cc/H (with water)
-- droplet diameter ~ 8 micron
+- 1 transducer (⌀ 38 mm)
+- resonant frequency: ~ 0,8 MHz
+- flow: 0 to 250 cm³/h (with water)
+- droplet diameter: ~ 8 µm
 
 ### GAPUSOL (1) 9001 type
 
 ![principle](/assets/images/5-picture2.gif)
 
-- 3 transducers � 20 mm
-- Resonant frequency ~ 2,5 MHz
-- Flow : 0 to 450 cc/H (in water)
-- Droplet diameter ~ 2 micron
+- 3 transducers (⌀ 20 mm)
+- resonant frequency: ~ 2,5 MHz
+- flow: 0 to 450 cm³/h (in water)
+- droplet diameter: ~ 2 µm
 
-This equipment is compatible with most for solvents used in thin layer process.
+This equipment is compatible with most for solvents used in thin layer processes.
 
-(1) Model developed in collaboration with CEA and accepted for PYROSOL application.
-
-
+(1) Model developed in collaboration with the [CEA](http://cea.fr/) and accepted for the PYROSOL application.
