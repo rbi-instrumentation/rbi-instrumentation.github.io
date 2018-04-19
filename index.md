@@ -22,7 +22,7 @@ Products
 
 We started developing [optical probes for dual-phase flow measurements](/probes) in 1987 with the [CEA](http://cea.fr/) to qualify multiphase flows in terms of void fraction, bubble/droplet velocity and sizes. This is still our main product today.
 
-We make [ultrasonic generators for aerosol production](/generators) for medical or industrial needs.
+We make [ultrasonic generators for aerosol production](/pyrosol) for medical or industrial needs.
 
 We have also developed a [respiratory monitoring system](http://visuresp.com/) for medical research needs and got the Artinov 2006 award for it. :-)
 

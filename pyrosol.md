@@ -1,7 +1,7 @@
 ---
 layout: default
-title: aerosol generators
-navigation_weight: 2
+title: pyrosol
+navigation_weight: 3
 ---
 
 Ultrasonic Aerosol Generators
