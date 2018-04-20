@@ -37,7 +37,7 @@ RBI produces two types of aerosol generators. They consist in:
 
 ### PYROSOL 7901
 
-![pyrosol 7901](/assets/images/5-picture2.gif)
+![pyrosol 7901](/assets/images/pyrosol.jpg)
 ![pyrosol 7901](/assets/images/pyrosol_7901.jpg)
 
 - 1 transducer (⌀ 38 mm)
@@ -47,7 +47,7 @@ RBI produces two types of aerosol generators. They consist in:
 
 ### GAPUSOL 9001
 
-![gapusol 9001](/assets/images/5-picture1.gif)
+![gapusol 9001](/assets/images/gapusol.jpg)
 ![gapusol 9001](/assets/images/gapusol_9001.jpg)
 
 - 3 transducers (⌀ 20 mm)
