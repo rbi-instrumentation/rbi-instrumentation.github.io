@@ -31,4 +31,4 @@ Our historical software has been matured over the last 20 years and performs a d
 
 This old-school software is still our reference for industrial needs, where a large number of probes (up to 16 channels) must be measured.
 
-[You can download the ISO3 documentation here.](/assets/iso3.pdf)
+[You can download the ISO3 documentation here.](/assets/pdf/rbi_iso3.pdf)
