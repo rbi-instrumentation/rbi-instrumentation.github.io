@@ -19,7 +19,7 @@ The performance of such equipment opens up a large field of applications in the 
 Measurement Principle
 ---------------------
 
-![measurement principle](/assets/images/principle.jpg)
+![measurement principle](/assets/images/probes/principle.jpg)
 
 1. an infrared light is injected into an optical fiber, the other end of which is located in the flow to be observed;
 2. this end is sharpened into a special shape through which a fraction of the light escapes, the rest being reflected back;
@@ -39,9 +39,9 @@ Designed for local measurements, the typical equipment consists of:
 Single Probes
 -------------
 
-![single probe](/assets/images/single_probe_1.jpg)
-![single probe](/assets/images/single_probe_2.jpg)
-![single probe](/assets/images/single_probe_3.jpg)
+![single probe](/assets/images/probes/single_probe_1.jpg)
+![single probe](/assets/images/probes/single_probe_2.jpg)
+![single probe](/assets/images/probes/single_probe_3.jpg)
 
 Main characteristics:
 
@@ -53,10 +53,10 @@ Main characteristics:
 Double Probes
 -------------
 
-![dual probe](/assets/images/dual_probe_1.jpg)
-![dual probe](/assets/images/dual_probe_2.jpg)
-![dual probe](/assets/images/dual_probe_3.jpg)
-![dual probe](/assets/images/dual_probe_4.jpg)
+![dual probe](/assets/images/probes/dual_probe_1.jpg)
+![dual probe](/assets/images/probes/dual_probe_2.jpg)
+![dual probe](/assets/images/probes/dual_probe_3.jpg)
+![dual probe](/assets/images/probes/dual_probe_4.jpg)
 
 A set of two fibers fixed together with a known distance between their tips forms a double probe. Installed along the flow lines, the instantaneous gradient of the phase interface can be measured to compute the bubble/droplet velocity.
 
@@ -64,8 +64,8 @@ A set of two fibers fixed together with a known distance between their tips form
 Opto-Electronic Amplifiers
 --------------------------
 
-![amplifier](/assets/images/2ChannelTVFront.jpg)
-![amplifier](/assets/images/2ChannelTVRear.jpg)
+![amplifier](/assets/images/probes/2ChannelTVFront.jpg)
+![amplifier](/assets/images/probes/2ChannelTVRear.jpg)
 
 We provide opto-electronic amplifiers for 2 to 16 optical channels (a dual probe counts for two channels). The analog outputs on the rear can be read directly on any oscilloscope (±5V range).
 

@@ -37,8 +37,8 @@ RBI produces two types of aerosol generators. They consist in:
 
 ### PYROSOL 7901
 
-![pyrosol 7901](/assets/images/pyrosol.jpg)
-![pyrosol 7901](/assets/images/pyrosol_7901.jpg)
+![pyrosol 7901](/assets/images/pyrosol/pyrosol.jpg)
+![pyrosol 7901](/assets/images/pyrosol/pyrosol_7901.jpg)
 
 - 1 transducer (⌀ 38 mm)
 - resonant frequency: ≃ 0.8 MHz
@@ -47,8 +47,8 @@ RBI produces two types of aerosol generators. They consist in:
 
 ### GAPUSOL 9001
 
-![gapusol 9001](/assets/images/gapusol.jpg)
-![gapusol 9001](/assets/images/gapusol_9001.jpg)
+![gapusol 9001](/assets/images/pyrosol/gapusol.jpg)
+![gapusol 9001](/assets/images/pyrosol/gapusol_9001.jpg)
 
 - 3 transducers (⌀ 20 mm)
 - resonant frequency: ≃ 2.5 MHz
