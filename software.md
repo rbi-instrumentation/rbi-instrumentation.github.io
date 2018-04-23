@@ -5,7 +5,7 @@ navigation_weight: 2
 ---
 
 Multiphase Flow Analysis
-=========================
+========================
 
 
 Dionysos
@@ -13,9 +13,9 @@ Dionysos
 
 Our next-generation software is designed to perform measurements in real-time, either on single probes or on dual probes:
 
-- the probe signal is digitalized with a PicoScope™;
+- the probe signal is digitalized with a [PicoScope®](https://www.picotech.com/products/oscilloscope);
 - a real-time signal analysis computes the void fraction and the velocity — either by measuring the travel time between the two tips of a dual probe, or by measuring the rise time of the liquid-to-gas transitions;
-- the analog signal is also transformed to logical gas/liquid chronograms, in order to be compatible with ISOv3.
+- the analog signal is also transformed to logical gas/liquid chronograms, in order to be compatible with ISO3.
 
 Dionysos makes it possible to monitor probe signal without any time limitation. Supports up to 8 channels.
 
