@@ -32,8 +32,8 @@ Designed for local measurements, the typical equipment consists of:
     - a stretched optical fiber tip for very thin resolutions;
     - a sapphire tip for high-pressure or high-temperature conditions;
 - an [opto-coupler](#opto-electronic-amplifiers) which emits the light into the probe and converts the reflected signal to a ±5V tension;
-- a [data acquisition](/software/#dionysos) system;
-- an [analysis software](/software/#iso3).
+- a [data acquisition](/software#dionysos) system;
+- an [analysis software](/software#iso3).
 
 
 Single Probes
@@ -69,4 +69,4 @@ Opto-Electronic Amplifiers
 
 We provide opto-electronic amplifiers for 2 to 16 optical channels (a dual probe counts for two channels). The analog outputs on the rear can be read directly on any oscilloscope (±5V range).
 
-Optionally, we can provide “Void Fraction Unit” modules to display the local void fraction in real-time and convert the analog signal into a TTL output for the [RBI-1501 acquisition module](/software/#data-acquisition).
+Optionally, we can provide “Void Fraction Unit” modules to display the local void fraction in real-time and convert the analog signal into a TTL output for the [RBI-1501 acquisition module](/software#data-acquisition).

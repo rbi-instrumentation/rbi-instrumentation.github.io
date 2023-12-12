@@ -13,6 +13,7 @@ Our engineering team has a very solid experience in the instrumentation field, e
 - mechanical engineering
 - electronic design
 - software development
+- industrial cabling
 
 Feel free to contact us for any specific instrumentation challenge you have in mind.
 
@@ -20,11 +21,9 @@ Feel free to contact us for any specific instrumentation challenge you have in m
 Products
 --------
 
-We started developing [optical probes for dual-phase flow measurements](/probes) in 1987 with the [CEA](http://cea.fr/) to qualify multiphase flows in terms of void fraction, bubble/droplet velocity and sizes. This is still our main product today.
+We started developing [optical probes for dual-phase flow measurements](/probes) in 1987 with the [CEA](https://www.cea.fr/) to qualify multiphase flows in terms of void fraction, bubble/droplet velocity and sizes. This is still our main product today.
 
-We make [ultrasonic generators for aerosol production](/pyrosol) for medical or industrial needs.
-
-We have also developed a [respiratory monitoring system](http://visuresp.com/) for medical research needs and got the Artinov 2006 award for it. :-)
+We also make [ultrasonic generators for aerosol production](/pyrosol) for medical or industrial needs.
 
 
 They Trust Us
